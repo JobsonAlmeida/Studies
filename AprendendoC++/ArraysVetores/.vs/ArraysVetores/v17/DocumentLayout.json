@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\ArraysVetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D243B4B-4D6A-4FA9-9D19-9CD8430B677F}|ArraysVetores\\ArraysVetores.vcxproj|C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\ArraysVetores\\ArraysVetores\\ArraysVetores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D243B4B-4D6A-4FA9-9D19-9CD8430B677F}|ArraysVetores\\ArraysVetores.vcxproj|solutionrelative:ArraysVetores\\ArraysVetores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArraysVetores.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\ArraysVetores\\ArraysVetores\\ArraysVetores.cpp",
+              "RelativeDocumentMoniker": "ArraysVetores\\ArraysVetores.cpp",
+              "ToolTip": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\ArraysVetores\\ArraysVetores\\ArraysVetores.cpp",
+              "RelativeToolTip": "ArraysVetores\\ArraysVetores.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T14:34:28.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
