@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\ExerciseMaxMin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA0FFE3-592B-4120-9C58-DCC615AB14D2}|ExerciseMaxMin\\ExerciseMaxMin.vcxproj|C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\ExerciseMaxMin\\ExerciseMaxMin\\MaxMin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEA0FFE3-592B-4120-9C58-DCC615AB14D2}|ExerciseMaxMin\\ExerciseMaxMin.vcxproj|solutionrelative:ExerciseMaxMin\\MaxMin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxMin.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\ExerciseMaxMin\\ExerciseMaxMin\\MaxMin.cpp",
+              "RelativeDocumentMoniker": "ExerciseMaxMin\\MaxMin.cpp",
+              "ToolTip": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\ExerciseMaxMin\\ExerciseMaxMin\\MaxMin.cpp",
+              "RelativeToolTip": "ExerciseMaxMin\\MaxMin.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-20T09:41:47.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
