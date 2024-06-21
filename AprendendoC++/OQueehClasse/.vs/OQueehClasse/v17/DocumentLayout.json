@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jobso\\source\\repos\\OQueehClasse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED785E0-5D24-48F8-B037-2AEBEBDAB7CC}|OQueehClasse\\OQueehClasse.vcxproj|C:\\Users\\jobso\\source\\repos\\OQueehClasse\\OQueehClasse\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ED785E0-5D24-48F8-B037-2AEBEBDAB7CC}|OQueehClasse\\OQueehClasse.vcxproj|solutionrelative:OQueehClasse\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\OQueehClasse\\OQueehClasse\\Source.cpp",
+              "RelativeDocumentMoniker": "OQueehClasse\\Source.cpp",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\OQueehClasse\\OQueehClasse\\Source.cpp",
+              "RelativeToolTip": "OQueehClasse\\Source.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwB8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T13:20:32.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
