@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\CriandoClassesNotacaoFlechaPonteiros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A30F5BC-FB9F-4948-B833-1848441784E2}|CriandoClassesNotacaoFlechaPonteiros\\CriandoClassesNotacaoFlechaPonteiros.vcxproj|C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\CriandoClassesNotacaoFlechaPonteiros\\CriandoClassesNotacaoFlechaPonteiros\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A30F5BC-FB9F-4948-B833-1848441784E2}|CriandoClassesNotacaoFlechaPonteiros\\CriandoClassesNotacaoFlechaPonteiros.vcxproj|solutionrelative:CriandoClassesNotacaoFlechaPonteiros\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\CriandoClassesNotacaoFlechaPonteiros\\CriandoClassesNotacaoFlechaPonteiros\\Source.cpp",
+              "RelativeDocumentMoniker": "CriandoClassesNotacaoFlechaPonteiros\\Source.cpp",
+              "ToolTip": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\CriandoClassesNotacaoFlechaPonteiros\\CriandoClassesNotacaoFlechaPonteiros\\Source.cpp",
+              "RelativeToolTip": "CriandoClassesNotacaoFlechaPonteiros\\Source.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T14:42:14.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

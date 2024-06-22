@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\StackHeap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8875182-3807-4288-BD0A-05845B3ACCDA}|StackHeap\\StackHeap.vcxproj|C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\StackHeap\\StackHeap\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8875182-3807-4288-BD0A-05845B3ACCDA}|StackHeap\\StackHeap.vcxproj|solutionrelative:StackHeap\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\StackHeap\\StackHeap\\Source.cpp",
+              "RelativeDocumentMoniker": "StackHeap\\Source.cpp",
+              "ToolTip": "C:\\Users\\jobso\\PastaGeral\\TI_Courses\\Studies\\AprendendoC\u002B\u002B\\StackHeap\\StackHeap\\Source.cpp",
+              "RelativeToolTip": "StackHeap\\Source.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T16:47:20.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
