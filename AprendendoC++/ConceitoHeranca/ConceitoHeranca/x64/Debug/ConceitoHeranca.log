@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\jobso\source\repos\ConceitoHeranca\ConceitoHeranca\Source.cpp(15,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jobso\source\repos\ConceitoHeranca\ConceitoHeranca\Source.cpp(15,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jobso\source\repos\ConceitoHeranca\ConceitoHeranca\Source.cpp(23,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  ConceitoHeranca.vcxproj -> C:\Users\jobso\source\repos\ConceitoHeranca\x64\Debug\ConceitoHeranca.exe
