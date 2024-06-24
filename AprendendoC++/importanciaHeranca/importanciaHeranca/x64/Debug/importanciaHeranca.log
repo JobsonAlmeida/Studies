@@ -1,0 +1,11 @@
+﻿  Aluno.cpp
+  Bibliotecario.cpp
+  CriaPessoa.cpp
+C:\Users\jobso\source\repos\importanciaHeranca\importanciaHeranca\CriaPessoa.cpp(12,30): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\jobso\source\repos\importanciaHeranca\importanciaHeranca\CriaPessoa.cpp(12,30): warning C4309: 'argument': truncation of constant value
+C:\Users\jobso\source\repos\importanciaHeranca\importanciaHeranca\CriaPessoa.cpp(13,26): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\jobso\source\repos\importanciaHeranca\importanciaHeranca\CriaPessoa.cpp(13,26): warning C4309: 'argument': truncation of constant value
+  Pessoa.cpp
+  Professor.cpp
+  Generating Code...
+  importanciaHeranca.vcxproj -> C:\Users\jobso\source\repos\importanciaHeranca\x64\Debug\importanciaHeranca.exe

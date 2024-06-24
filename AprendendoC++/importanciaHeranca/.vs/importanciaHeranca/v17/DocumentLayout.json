@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Professor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\Professor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\CriaPessoa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\CriaPessoa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Aluno.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\Aluno.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Bibliotecario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\Bibliotecario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Pessoa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\Pessoa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Pessoa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\Pessoa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Professor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\Professor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Bibliotecario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\Bibliotecario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Aluno.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5865B404-44C2-4D23-916B-C96F9AA3F327}|importanciaHeranca\\importanciaHeranca.vcxproj|solutionrelative:importanciaHeranca\\Aluno.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriaPessoa.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\CriaPessoa.cpp",
+              "RelativeDocumentMoniker": "importanciaHeranca\\CriaPessoa.cpp",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\CriaPessoa.cpp",
+              "RelativeToolTip": "importanciaHeranca\\CriaPessoa.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T14:04:51.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bibliotecario.h",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Bibliotecario.h",
+              "RelativeDocumentMoniker": "importanciaHeranca\\Bibliotecario.h",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Bibliotecario.h",
+              "RelativeToolTip": "importanciaHeranca\\Bibliotecario.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-24T12:18:20.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bibliotecario.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Bibliotecario.cpp",
+              "RelativeDocumentMoniker": "importanciaHeranca\\Bibliotecario.cpp",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Bibliotecario.cpp",
+              "RelativeToolTip": "importanciaHeranca\\Bibliotecario.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T14:04:50.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Aluno.cpp",
+              "RelativeDocumentMoniker": "importanciaHeranca\\Aluno.cpp",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Aluno.cpp",
+              "RelativeToolTip": "importanciaHeranca\\Aluno.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T14:04:49.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pessoa.h",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Pessoa.h",
+              "RelativeDocumentMoniker": "importanciaHeranca\\Pessoa.h",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Pessoa.h",
+              "RelativeToolTip": "importanciaHeranca\\Pessoa.h",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-24T10:55:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Pessoa.cpp",
+              "RelativeDocumentMoniker": "importanciaHeranca\\Pessoa.cpp",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Pessoa.cpp",
+              "RelativeToolTip": "importanciaHeranca\\Pessoa.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T13:40:32.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Professor.h",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Professor.h",
+              "RelativeDocumentMoniker": "importanciaHeranca\\Professor.h",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Professor.h",
+              "RelativeToolTip": "importanciaHeranca\\Professor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-24T11:19:55.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Professor.cpp",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Professor.cpp",
+              "RelativeDocumentMoniker": "importanciaHeranca\\Professor.cpp",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Professor.cpp",
+              "RelativeToolTip": "importanciaHeranca\\Professor.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T12:21:30.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aluno.h",
+              "DocumentMoniker": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Aluno.h",
+              "RelativeDocumentMoniker": "importanciaHeranca\\Aluno.h",
+              "ToolTip": "C:\\Users\\jobso\\source\\repos\\importanciaHeranca\\importanciaHeranca\\Aluno.h",
+              "RelativeToolTip": "importanciaHeranca\\Aluno.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-24T12:16:17.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
